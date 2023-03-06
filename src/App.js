@@ -1,5 +1,5 @@
 
-import './App.css';
+
 import { connect } from 'react-redux';
 import { InAction } from './actions';
 import { DecAction } from './actions';
